@@ -1,0 +1,65 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}/buy /b 买枪."
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}出门前可以双击喷漆键丢枪."
+	}
+	"3"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}公告换点有意义的."
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}Rochelle: [圣经咏唱]."
+	}
+    "5"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}出门发的药，吃/给了还会再给一个."
+    }
+    "6"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}垃圾群: 819906811."
+    }
+    "7"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}可以买子弹、药和包（清空虚血回20实血，取消黑白状态）."
+    }
+    "8"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}拿着近战对着特感按鼠标中键（开镜键）可以使用电击枪, 一回合可使用一次."
+    }
+    "9"
+	{
+		"type"		"S"
+		"text"		"{GREEN}[公告] {LIGHTGREEN}增加了被多控时解控，倒地次数会加1."
+    }
+}

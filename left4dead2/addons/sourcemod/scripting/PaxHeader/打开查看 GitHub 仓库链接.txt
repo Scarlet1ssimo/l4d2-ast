@@ -1,0 +1,1 @@
+83 path=left4dead2/addons/sourcemod/scripting/打开查看 GitHub 仓库链接.txt
